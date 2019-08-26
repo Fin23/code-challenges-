@@ -1,0 +1,16 @@
+{
+  "name": "tofugraph",
+  "version": "1.0.0",
+  "description": "returs information in the terminal for what products will and won't make production by next week",
+  "main": "tofuGraph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ross jameosn",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
